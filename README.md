@@ -7,6 +7,7 @@ The `Bibles` in this collection are in the database format and can be opened usi
 Each Bible has 2 tables. The schema is given below:
 
 Table 1: `CREATE TABLE "bible" ("Book"	INTEGER, "Chapter"	INTEGER, "Versecount"	INTEGER, "verse"	TEXT)`
+
 Table 2: `CREATE TABLE "bookIndex" ( "num" INTEGER, "name" TEXT )`
 
 Any future commits has to follow this schema strictly.
