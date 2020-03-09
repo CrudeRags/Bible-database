@@ -1,4 +1,4 @@
-# Bible-database-for-python
+# Bible-database
 A collection of `The Holy Bible` in various languages used for a python program
 
 The `Bibles` in this collection are in the database format and can be opened using `sqlite` module.
